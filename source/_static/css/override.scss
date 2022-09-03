@@ -3,10 +3,6 @@ article[role=main] {
     #627: setting small line-height
     https://github.com/pradyunsg/furo/discussions/344
   */
-  .highlight pre {
-    line-height: 125%;
-  }
-
   .highlight span.linenos {
     color: inherit;
     background-color: transparent;
