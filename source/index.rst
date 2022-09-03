@@ -9,6 +9,7 @@ Furo Repros's
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
 
    */index
 
