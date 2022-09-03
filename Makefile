@@ -22,4 +22,4 @@ help:
 
 # sphinx-autobuild: CAREFUL -> TABS are required -> otherwise: Makefile:24: *** missing separator.  Stop.
 livehtml:
-	@$(SPHINXAUTOBUILD) -b html $(SPHINXOPTS) "$(SOURCEDIR)" "$(BUILDDIR)/html"
+	@$(SPHINXAUTOBUILD) -b html -c . "$(SOURCEDIR)" "$(BUILDDIR)/html"
