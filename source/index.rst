@@ -10,6 +10,7 @@ Furo Repros's
    :maxdepth: 2
    :caption: Contents:
 
+   pygments
 
 
 Indices and tables
