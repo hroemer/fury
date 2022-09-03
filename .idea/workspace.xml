@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c51dc082-35d5-46db-8be6-732f903948cd" name="Changes" comment="adding override.scss">
-      <change beforePath="$PROJECT_DIR$/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_static/css/override.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/_static/css/override.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_static/css/override.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/_static/css/override.scss" afterDir="false" />
-    </list>
+    <list default="true" id="c51dc082-35d5-46db-8be6-732f903948cd" name="Changes" comment="adding override.scss" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
