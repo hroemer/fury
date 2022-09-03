@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<contacts typ="private" beschreibung="personal addressbook">
+    <!-- Person No. 1 -->
+    <person id="1">
+        <name>Frank Rizzo</name>
+        <email>frank@rizzo.org</email>
+        <dateofbirth>
+            <day>21</day>
+            <month>03</month>
+            <year>1970</year>
+        </dateofbirth>
+    </person>
+</contacts>
